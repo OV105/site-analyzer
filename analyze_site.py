@@ -2,7 +2,7 @@
 #
 ####################################################################
 #
-# Copyright (c) Timothy H. Lee
+# Copyright (c) 2017 Timothy H. Lee
 # All Rights Reserved.
 #
 # This program is free software; you can redistribute it and/or
